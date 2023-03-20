@@ -1,0 +1,11 @@
+.containerNavBar{
+    padding: 20px;
+    background-color: rgb(47, 177, 177);
+}
+
+.ulNavBar{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
