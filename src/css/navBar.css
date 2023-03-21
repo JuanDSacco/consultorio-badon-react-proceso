@@ -8,4 +8,20 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    margin-bottom: 0;
+}
+
+.ulNavBar a{
+    text-decoration: none;
+    color: black;
+}
+
+.liNavBar{
+    font-size: 22px;
+    transition: font-size 0.4s;
+}
+
+.liNavBar:hover{
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 25px;
 }

@@ -1,0 +1,36 @@
+.containerFooter{
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.ulDatos{
+    list-style: none;
+}
+
+.ulRedes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+}
+
+.listaRedes{
+    padding-right: 10px;
+    font-size: 25px;
+}
+
+.spanFooter{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.ulHorarios{
+    list-style: none;
+}
