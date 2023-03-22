@@ -41,3 +41,20 @@
     color: darkcyan;
 }
 
+.ulRecomendaciones{
+    list-style: none;
+    padding: 15px;
+}
+
+.ulRecomendaciones li{
+    padding: 3px;
+}
+
+.ulRecomendaciones li:hover{
+    background-color: rgb(47, 177, 177);
+    border-radius: 5%;
+}
+
+.dropdown-menu{
+    background-color: darkcyan;
+}
