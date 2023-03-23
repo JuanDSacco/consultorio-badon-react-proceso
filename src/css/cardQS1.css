@@ -1,0 +1,33 @@
+.cardQSContainer1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 25px;
+    background-color: darkcyan;
+}
+
+.divImg1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgCardQS1{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.h1CardQS1{
+    font-size: 35px;
+}
+
+.h2CardQS1{
+    font-size: 18px;
+}
+
+.divDesempeño1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
