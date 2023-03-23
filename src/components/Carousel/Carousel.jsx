@@ -15,10 +15,10 @@ const Carousel = () => {
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img style={{height:'500px',width:'800px'}} src={diabetes1} class="d-block w-100" alt="diabetes"/>
+                    <img style={{height:'500px',width:'800px'}} src={diabetes2} class="d-block w-100" alt="diabetes"/>
                     </div>
                     <div class="carousel-item">
-                    <img style={{height:'500px',width:'800px'}} src={diabetes2} class="d-block w-100" alt="diabetes"/>
+                    <img style={{height:'500px',width:'800px'}} src={diabetes1} class="d-block w-100" alt="diabetes"/>
                     </div>
                     <div class="carousel-item">
                     <img style={{height:'500px',width:'800px'}} src={diabetes3} class="d-block w-100" alt="diabetes"/>
