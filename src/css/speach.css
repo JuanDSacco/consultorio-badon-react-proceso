@@ -1,6 +1,6 @@
 .containerSpeach{
     padding: 70px;
-    background-color: rgb(47, 177, 177);
+    background-image: linear-gradient(rgb(74, 74, 153), white);
     display: flex;
     flex-direction: column;
     align-items: center;

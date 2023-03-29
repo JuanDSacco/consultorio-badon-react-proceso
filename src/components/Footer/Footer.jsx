@@ -34,7 +34,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className='spanFooter'>
-                <span>Todos los derechos reservados por Copyright 2023 - Juan Sacco DEV</span>
+                <span>Todos los derechos reservados por Copyright 2023</span>
             </div>
         </>
     )

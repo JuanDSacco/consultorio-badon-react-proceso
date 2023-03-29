@@ -1,6 +1,22 @@
 .containerForm{
-    height: 600px;
-    background-color: darkcyan;
+    height: 650px;
+    background-image: linear-gradient(rgb(74, 74, 153), white);
     padding: 20px;
     padding-top: 50px;
 }
+
+#btnEnviar{
+    background-image: linear-gradient(rgb(74, 74, 153), white);
+    border-color: rgb(74, 74, 153);
+}
+
+.h4Contacto{
+    padding-bottom: 15px;
+    font-size: 16px;
+    color: red;
+}
+
+.labelContacto{
+    font-size: 20px;
+}
+

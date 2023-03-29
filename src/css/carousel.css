@@ -1,5 +1,5 @@
 .containerCarousel{
-    background-color: darkcyan;
+    background-image: linear-gradient(rgb(74, 74, 153), white);
     height: 600px;
     display: flex;
     justify-content: center;

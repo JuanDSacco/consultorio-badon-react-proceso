@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content: space-evenly;
     padding: 25px;
-    background-color: darkcyan;
+    background-image: linear-gradient(rgb(74, 74, 153), rgb(203, 207, 236));
 }
 
 .divImg1{

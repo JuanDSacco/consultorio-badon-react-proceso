@@ -1,6 +1,6 @@
 .containerNavBar{
     padding: 20px;
-    background-color: rgb(47, 177, 177);
+    background-color: rgb(203, 207, 236);
 }
 
 .ulNavBar{
@@ -22,23 +22,23 @@
 }
 
 .liNavBar:hover{
-    text-shadow: 1px 1px 2px darkcyan;
+    text-shadow: 1px 1px 2px rgb(74, 74, 153);
     font-size: 25px;
-    color: darkcyan;
+    color: rgb(74, 74, 153);
 }
 
 #buttonRecomendaciones{
-    background-color: rgb(47, 177, 177);
-    border-color: rgb(47, 177, 177);
+    background-color: rgb(203, 207, 236);
     color: black;
     font-size: 22px;
+    border-color: rgb(203, 207, 236);
     transition: font-size 0.4s;
 }
 
 #buttonRecomendaciones:hover{
-    text-shadow: 1px 1px 2px darkcyan;
+    text-shadow: 1px 1px 2px rgb(74, 74, 153);
     font-size: 25px;
-    color: darkcyan;
+    color: rgb(74, 74, 153);
 }
 
 .ulRecomendaciones{
@@ -51,10 +51,10 @@
 }
 
 .ulRecomendaciones li:hover{
-    background-color: rgb(47, 177, 177);
+    background-color: white;
     border-radius: 5%;
 }
 
 .dropdown-menu{
-    background-color: darkcyan;
+    background-color: rgb(74, 74, 153);
 }
