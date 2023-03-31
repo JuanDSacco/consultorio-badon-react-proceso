@@ -56,5 +56,19 @@
 }
 
 .dropdown-menu{
-    background-color: rgb(74, 74, 153);
+    background-color: rgb(203, 207, 236);
+}
+
+.h4Header{
+    padding-top: 200px;
+    padding-left: 150px;
+}
+
+.divH2{
+    padding-top: 100px;
+}
+
+.divImg{
+    padding-top: 80px;
+    padding-left: 200px;
 }

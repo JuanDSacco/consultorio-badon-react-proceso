@@ -6,15 +6,15 @@ const Contacto = () => {
         <>
             <form className='containerForm'>
                 <div class="form-group">
-                    <label className='labelContacto'>* Nombre y Apellido</label>
+                    <label className='labelContacto'><span id='idAsterisco'>*</span> Nombre y Apellido</label>
                     <input type="text" className="form-control" id="exampleInputName"/>
                 </div>
                 <div class="form-group">
-                    <label className='labelContacto'>* Email</label>
+                    <label className='labelContacto'><span id='idAsterisco'>*</span> Email</label>
                     <input type="email" className="form-control" id="exampleInputEmail"/>
                 </div>
                 <div class="form-group">
-                    <label className='labelContacto'>* Numero Celular </label>
+                    <label className='labelContacto'><span id='idAsterisco'>*</span> Numero Celular </label>
                     <input type="number" className="form-control" id="exampleInputNumber"/>
                 </div>
                 <div class="form-group">
@@ -22,7 +22,7 @@ const Contacto = () => {
                     <input type="number" className="form-control" id="exampleInputNumber" />
                 </div>
                 <div class="form-group">
-                    <label className='labelContacto'>* Mensaje</label>
+                    <label className='labelContacto'><span id='idAsterisco'>*</span> Mensaje</label>
                     <input type="text" className="form-control" id="exampleInputMessage"/>
                 </div>
                 <div>

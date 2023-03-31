@@ -5,13 +5,16 @@ const Header = () => {
 
     return(
         <div className='containerHeader'>
-        <div className='divH2'>
-            <h2 className='h2Header'>Atención integral</h2>
-            <h2 className='h2Header'>Diabetes, Heridas y Pie Diabético</h2>
-        </div>
-        <div className='divImg'>
-            <img className='imgLogo' src={logo} alt='imagen-logo'/>
-        </div>
+            <div className='divH2'>
+                <h2 className='h2Header'>Atención integral</h2>
+                <h2 className='h2Header'>Diabetes, Heridas y Pie Diabético</h2>
+                <div className='h4Header'>
+                    <h3>Dra Badón Alejandra y equipo</h3>
+                </div>
+            </div>
+            <div className='divImg'>
+                <img className='imgLogo' src={logo} alt='imagen-logo'/>
+            </div>
         </div>
     )
 }
